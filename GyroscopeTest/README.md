@@ -22,7 +22,7 @@
                             
                  void RestoreFire()//将火焰恢复原状
                  
-                 void Shelter()//挡风
+                 void Shelter()//挡风，移动手机到风来的方向会将火焰复原
                  
      配置参考 https://blog.csdn.net/DDghsot/article/details/80488036
                  
