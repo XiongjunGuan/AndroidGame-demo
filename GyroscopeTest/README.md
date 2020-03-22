@@ -12,7 +12,8 @@
                             FireSize 火焰大小，FireFlag = 5 时可用
                  void RestoreFire()//将火焰恢复原状
                  void Shelter()//挡风
+     配置参考 https://blog.csdn.net/DDghsot/article/details/80488036
                  
 (2)  摄像机部分  GyroscopeTest\Assets\GyroPanorama.cs
      这部分基本不用动
-              
+     配置参考 https://jingyan.baidu.com/article/3aed632ec0f421701180914e.html
